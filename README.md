@@ -10,7 +10,6 @@
 
 **Github Actions定时任务可能出现几分钟的误差，可能由于完美校园崩溃而导致打卡失败**
 
-**如果你发现今天打卡失败，可[在线补卡](http://chillsoul.github.io/recheck)**
 
 ## 更新日志
 
