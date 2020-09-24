@@ -21,7 +21,7 @@
 
 ## 使用方法
 
-首先，点击页面上方`Star`和`Fork`，此时你将得到复制的项目
+首先，点击页面上方`Star`和`Fork`，此时你将得到复   制的项目
 
 ![Star and fork](https://s1.ax1x.com/2020/09/16/w22nDx.png)
 
