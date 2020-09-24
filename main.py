@@ -38,7 +38,7 @@ def main():
     elif (hms[0] >= 21) & (hms[0] < 22):
         customer_app_type_rule_id = 148
     else:
-        print('未到打卡时间，将重打早间卡测试')
+        print('未到打卡时间，将重   打早间卡测试')
         customer_app_type_rule_id = 146
 
     for index, value in enumerate(user_id):
