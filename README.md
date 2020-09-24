@@ -6,32 +6,32 @@
 - 随机校内经纬度🗺️
 - 打卡结果微信推送💬
 - 随机温度(36.2℃-36.5℃)🌡
-- 打卡时间:06:35,13:05,21:35🕑
+- 打卡时间:06:   35,13:05,21:35🕑
 
-**Github Actions定时任务可能出现几分钟的误差，可能由于完美校园崩溃而导致打卡失败**
+**Github Actions定时任务   可能出现几分钟的误差，可能由于完美校园崩溃而导致打卡失败**
 
 
 ## 更新日志
 
 部分老版本可能存在打卡失败 `Gateway timeout 504` 错误，建议更新新版本。
-
+   
 2020.9.16 21:35 更新多用户版，使用WxPusher，致谢[@themanforfree](https://github.com/themanforfree)
-
+     
 2020.9.14 12:40 使用方法优化
 
 ## 使用方法
 
-首先，点击页面上方`Star`和`Fork`，此时你将得到复   制的项目
+首先，点击页面上方`Star`   和`Fork`，此时你将得到复   制的项目
 
-![Star and fork](https://s1.ax1x.com/2020/09/16/w22nDx.png)
+![Star and fork](https  ://s1.ax1x.com/2020/09/16/w22nDx.png)
 
-点击下方链接微信扫码关注，以便获取打卡结果推送
+点击下方链接微信扫  码关注，以便获取打卡结果推送
 
-[Wecha     QRCode](http://wxpusher.zjiecode.com/api/qrcode/FHFBNBtuM9q4rmR2AS2okzHcBEoh9pFa1JsseEb0PXixltPGFh3UFaw0qwLH4sSJ.jpg)
+[Wecha     QRCode  ](http://wxpusher.zjiecode.com/api/qrcode/FHFBNBtuM9q4rmR2AS2okzHcBEoh9pFa1JsseEb0PXixltPGFh3UFaw0qwLH4sSJ.jpg)
 
-关注后点击我的->我的UID，获取每个人的WxPusher UID
+关注后点击我的->我的UID，获取每个人的WxPush  er UID
 
-![WxPusher UID](https://s1.ax1x.com/2020/09/16/w2W6H0.png)
+![WxPusher UID](https://  s1.ax1x.com/2020/09/16/w2W6H0.png)
 
 接下来你需要设置`Secret` Fork的项目->Settings->Secret->New Secret
 
